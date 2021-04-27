@@ -30,7 +30,7 @@ class diabetes
 		friend class Login;
 		friend class adminstration;
 		friend class patient;
-		void twist();                                //after thinking a lot i decided;
+		void twist();
 		void welcome();
 		void enterdata();
 		void doctorlist();
@@ -504,7 +504,7 @@ class diet
  		cout<<chwer2[kk];
 	}
 	
-	cout<<"\n\n Healthy fats from nuts, olive oil, fish oils\n\n flax seeds, or avocados Fruits and vegetables—ideally fresh\n\n the more colorful the better\n\n whole fruit rather than juices High-fiber cereals and breads made from whole grains or legumes Fish and shellfish\n\n organic chicken or turkey\n\n High-quality protein such as eggs, beans, low-fat dairy, and unsweetened yogurt";
+	cout<<"\n\n Healthy fats from nuts, olive oil, fish oils\n\n flax seeds, or avocados Fruits and vegetablesÂ—ideally fresh\n\n the more colorful the better\n\n whole fruit rather than juices High-fiber cereals and breads made from whole grains or legumes Fish and shellfish\n\n organic chicken or turkey\n\n High-quality protein such as eggs, beans, low-fat dairy, and unsweetened yogurt";
 	cout<<"\n\n";
 	cout<<" Brown or wild rice, riced cauliflower\n\n Sweet potatoes, yams, cauliflower mash \n\n Whole-wheat pasta, spaghetti squash \n\n High-fiber, low-sugar cereal \n\n Steel-cut or rolled oats";
 	cout<<"\n\n";

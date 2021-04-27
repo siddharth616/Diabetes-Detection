@@ -1,6 +1,6 @@
 # Diabetes-Detection
-This is my diabetes detection C++ project/program which uses file handling as well. The program tells wheather the person has diabetes or not after testing most of the things.
-The program can:
+This is a diabetes detection C++ project/program which uses file handling and software engineering techniques as well. The program tells wheather the person has diabetes or not after testing most of the things.
+The project can:
 1.Fix Appointment
 2.Can Proceed With Testings
 3.Will-generate Pre-report
